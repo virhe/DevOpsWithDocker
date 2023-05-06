@@ -1,0 +1,4 @@
+docker run -it --rm -p 3456:8080 devopsdockeruh/simple-web-service server
+localhost:3456
+
+{"message":"You connected to the following path: /","path":"/"}
